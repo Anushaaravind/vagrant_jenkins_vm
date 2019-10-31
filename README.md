@@ -8,4 +8,4 @@ vagrant ssh
 cat /var/log/jenkins/jenkins.log | grep password -A 3
 This is to get the initial password for the Jenkins start.
 
-Then go to "http://192.168.33.20:8080/" on your browser to access Jenkins.
+Then go to "http://192.168.33.10:8080/" on your browser to access Jenkins.
